@@ -6,3 +6,5 @@ Adding PDFs and links of Study Materials related to data science that can help w
 The list contains:
 
 1. Statistics Refresher Guide
+
+2. Machine Learning cheat sheet
