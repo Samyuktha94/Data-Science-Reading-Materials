@@ -8,3 +8,5 @@ The list contains:
 1. Statistics Refresher Guide
 
 2. Machine Learning cheat sheet
+
+3. Machine Learning Explained in a Nutshell
