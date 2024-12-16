@@ -14,3 +14,5 @@ The list contains:
 4. Numpy Tutorial
 
 5. Pandas Cheat Sheet
+
+6. Geopandas Cheat Sheet
