@@ -10,3 +10,7 @@ The list contains:
 2. Machine Learning cheat sheet
 
 3. Machine Learning Explained in a Nutshell
+
+4. Numpy Tutorial
+
+5. Pandas Cheat Sheet
